@@ -1,3 +1,3 @@
-本目录中各文件夹说明如下：
-环形拓扑：      用于存放TSNSwitch1.0中UM的代码，该UM代码和FPGA_OS代码（不开源）所搭建的TSN交换机工程用于组建环形拓扑
-星形拓扑：      用于存放TSNSwitch1.0中UM的代码，该UM代码和FPGA_OS代码（不开源）所搭建的TSN交换机用于组建星形拓扑
+Each folder in this directory is described as follows:
+Ring topology: used to store the UM code in TSNSwitch1.0, the TSN switch project built by the UM code and the FPGA_OS code (not open source) is used to form a ring topology
+Star topology: used to store the UM code in TSNSwitch1.0, the TSN switch built by the UM code and the FPGA_OS code (not open source) is used to form a star topology

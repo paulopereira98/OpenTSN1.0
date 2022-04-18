@@ -1,4 +1,4 @@
-﻿本目录中各文件夹说明如下：
-Demo：    组网示例以及组网操作手册
-Hardware：包括硬件核心源代码、工程示例、设计文档及使用文档
-Software：软件源码、软件件设计文档及使用手册
+Each folder in this directory is described as follows:
+Demo: networking example and networking operation manual
+Hardware: including hardware core source code, engineering examples, design documents and usage documents
+Software: software source code, software design documents and manuals
